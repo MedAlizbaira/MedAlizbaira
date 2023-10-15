@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](GitHub)
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs**
+- 💬 Ask me about **ReactJs, Angular, NodeJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
